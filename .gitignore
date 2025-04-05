@@ -1,0 +1,13 @@
+/books
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE (если ты используешь PyCharm или VS Code)
+.idea/
+.vscode/
+
+# Системные файлы
+.DS_Store
+
